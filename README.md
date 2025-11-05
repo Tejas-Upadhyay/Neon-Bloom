@@ -2,9 +2,9 @@
 
 [![Godot Version](https://img.shields.io/badge/Godot-4.x-blue)](https://godotengine.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
-[![GitHub issues](https://img.shields.io/github/issues/YourUsername/NeonBloom)](https://github.com/YourUsername/NeonBloom/issues)  
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/NeonBloom)](https://github.com/YourUsername/NeonBloom/network)  
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/NeonBloom)](https://github.com/YourUsername/NeonBloom/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Tejas-Upadhyay/NeonBloom)](https://github.com/Tejas-Upadhyay/NeonBloom/issues)  
+[![GitHub forks](https://img.shields.io/github/forks/Tejas-Upadhyay/NeonBloom)](https://github.com/Tejas-Upadhyay/NeonBloom/network)  
+[![GitHub stars](https://img.shields.io/github/stars/Tejas-Upadhyay/NeonBloom)](https://github.com/Tejas-Upadhyay/NeonBloom/stargazers)
 
 ---
 
