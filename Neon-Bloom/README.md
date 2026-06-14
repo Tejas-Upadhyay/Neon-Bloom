@@ -17,7 +17,7 @@
     <p align="center">
         Tool to measure time spent in loved by many people game engine - Godot
         <br />
-        Officially approved to use in events created by Hack Club
+        Officially approved to use in events created by Hack Club. Made for <a href="https://horizons.hackclub.com">Hack Club Horizons</a>!
         <br />
         <br />
         <a href="https://godotengine.org/asset-library/asset/3484">Get from Asset Lib</a>
