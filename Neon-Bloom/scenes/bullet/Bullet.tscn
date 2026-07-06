@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/Bullet.gd" id="1_1a"]
+
+[sub_resource type="CircleShape2D" id="1"]
+radius = 6.0
+
+[node name="Bullet" type="Area2D" groups=["bullet"]]
+collision_layer = 4
+collision_mask = 2
+script = ExtResource("1_1a")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("1")
+
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
+[connection signal="screen_exited" from="VisibleOnScreenNotifier2D" to="." method="_on_visible_on_screen_notifier_2d_screen_exited"]

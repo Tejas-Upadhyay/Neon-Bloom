@@ -33,6 +33,16 @@ You play as an android gardener, exploring, collecting resources, and growing te
 
 ---
 
+## 🕹️ Controls
+
+- **Movement**: `W`/`A`/`S`/`D` (8-directional)
+- **Aiming**: Aim with mouse cursor
+- **Shooting**: `Spacebar` or `Enter`
+- **Evolve**: Press `E` to open/close the **Chassis Evolution Chamber** (Upgrade Shop)
+- **Harvest**: Stand over fully-grown glowing plants to harvest their resources and trigger stat boosts
+
+---
+
 ## 🛠️ Development
 
 - Built with **Godot 4.x** in 2D mode.
